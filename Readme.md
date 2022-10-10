@@ -5,7 +5,6 @@
 
 I'm a 18 y/o engineering student working around **Design & Code** with interest ranging from building products to Ai, psychology, gaming and photography.
 
-<br>
 
 ## 🧑🏻‍💻 **Skill set :**
 
@@ -20,7 +19,6 @@ I'm a 18 y/o engineering student working around **Design & Code** with interest 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-<br>
 
 
 ## 🚀 **Socials :**
@@ -30,7 +28,6 @@ I'm a 18 y/o engineering student working around **Design & Code** with interest 
 
 </p>
 
-<br>
 
 ## 📊 **Github Stats :** 
 
