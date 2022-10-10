@@ -1,6 +1,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" />
 
-# Hey there 👋 I'm **Manish**!
+# Hey there 👋 Myself **Manish**!
 
 
 I'm a 18 y/o engineering student working around **Design & Code** with interest ranging from building products to Ai, psychology, gaming and photography.
