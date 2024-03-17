@@ -3,7 +3,7 @@
 # Hey there 👋 Myself **Manish**!
 
 
-I'm a 19 y/o engineering student working around **Design & Code** with interest ranging from building products to Ai, psychology, gaming and photography.
+I'm a 20 y/o engineering student working around **Design & Code** with interest ranging from building products to Ai, psychology, gaming and photography.
 
 
 ## 🧑🏻‍💻 **Skill set :**
